@@ -101,6 +101,7 @@ main{
 }
 .addtocart:hover{
     background:#1A4032;  
+    cursor:pointer; 
 } 
 @media only screen and (min-width: 1440px){
     .product-mobile{
